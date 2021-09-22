@@ -18,6 +18,9 @@ public class BabyMaker
 						System.out.println("He is loved.");
 					}
 				myB1.score();
+				
+				//homework changed at 7:04 p.m.
+				
 			}
 
 	}
